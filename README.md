@@ -1,5 +1,5 @@
 # Craluminum2413-Mods-Suggestions
-All errors and suggestions about all my Vintage Story mods can be found here
+Errors and suggestions about my Vintage Story mods can be found here
 
 - More Piles https://mods.vintagestory.at/morepiles
 - More Piles - Placeable Empty Containers https://mods.vintagestory.at/placeableemptycontainers
