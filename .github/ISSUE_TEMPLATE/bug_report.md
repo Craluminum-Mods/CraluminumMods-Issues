@@ -3,7 +3,7 @@ name: Bug report
 about: I found an issue with the mod
 title: "(PutModNameHere)"
 labels: bug
-assignees: ''
+assignees: Craluminum2413
 
 ---
 
@@ -20,6 +20,3 @@ Explain the issue you're running into.
 
 **Expected behavior:**
 A clear description of what you expected to happen.
-
-**Additional Context:**
-Add any other context about the problem here.
