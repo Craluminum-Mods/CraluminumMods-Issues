@@ -2,6 +2,7 @@
 Errors and suggestions about my Vintage Story mods can be found here
 - [More Piles](https://mods.vintagestory.at/morepiles)
 - [I Wanna Place Every Item (IWPEI)](https://mods.vintagestory.at/iwpei)
+- [I Wanna Place Every Item From Every Mod (IWPEIFEM)](https://mods.vintagestory.at/iwpeifem)
 - [Vanilla Variants (VanVar)](https://mods.vintagestory.at/vanvar)
 - [Visually Glowing Arrows and Spears](https://mods.vintagestory.at/vgaas)
 - [Stone Path Variants](https://mods.vintagestory.at/ssppvv)
