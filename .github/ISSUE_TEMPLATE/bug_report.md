@@ -4,7 +4,6 @@ about: I found an issue with the mod
 title: "(PutModNameHere)"
 labels: bug
 assignees: Craluminum2413
-
 ---
 
 **Game Version:** X.Y.Z
@@ -20,3 +19,15 @@ Explain the issue you're running into.
 
 **Expected behavior:**
 A clear description of what you expected to happen.
+
+**Screenshots / Videos:**
+Attach a screenshot / video if it helps explain the issue / shows a visual bug.
+
+**Log:**
+```
+Paste crash between the triple backticks.
+
+In the game's Logs folder you may be able to find more information
+inside client-main.txt and server-main.txt. Alternatively, you may use
+gist.github.com to upload logs, linking them here, if they're too large.
+```
