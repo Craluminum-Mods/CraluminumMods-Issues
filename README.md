@@ -1,5 +1,6 @@
 # Craluminum2413's Mods
 Errors and suggestions about my Vintage Story mods can be found here
+- [Expanded Liquid Containers](https://mods.vintagestory.at/exlico)
 - [I Wanna Place Every Item (IWPEI)](https://mods.vintagestory.at/iwpei)
 - [I Wanna Place Every Item From Every Mod (IWPEIFEM)](https://mods.vintagestory.at/iwpeifem)
 - [More Piles](https://mods.vintagestory.at/morepiles)
