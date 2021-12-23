@@ -8,3 +8,4 @@ Errors and suggestions about my Vintage Story mods can be found here
 - [Stone Path Variants](https://mods.vintagestory.at/ssppvv)
 - [Vanilla Variants (VanVar)](https://mods.vintagestory.at/vanvar)
 - [Visually Glowing Arrows and Spears](https://mods.vintagestory.at/vgaas)
+- [Small Fixes](https://mods.vintagestory.at/smallfixes)
