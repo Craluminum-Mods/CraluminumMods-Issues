@@ -4,7 +4,7 @@ Errors and suggestions about my Vintage Story mods can be found here
 |Mod|Links|
 |---|---|
 |Expanded Liquid Containers|[VSModDB](https://mods.vintagestory.at/exlico)///[Source](https://github.com/Craluminum2413/ExpandedLiquidContainers)|
-|I Wanna Place Every Item (IWPEI)|[VSModDB](https://mods.vintagestory.at/iwpei)///[Source](https://github.com/Craluminum2413/IWannaPlaceEveryItem)|
+|Place Every Item (IWPEI)|[VSModDB](https://mods.vintagestory.at/placeeveryitem)///[Source](https://github.com/Craluminum2413/PlaceEveryItem)|
 |I Wanna Place Every Item From Every Mod (IWPEIFEM)|[VSModDB](https://mods.vintagestory.at/iwpeifem)|
 |More Piles|[VSModDB](https://mods.vintagestory.at/morepiles)///[Source](https://github.com/Craluminum2413/MorePiles)|
 |More Piles - Quasi|[VSModDB](https://mods.vintagestory.at/qmorepiles)|
