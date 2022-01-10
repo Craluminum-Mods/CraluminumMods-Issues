@@ -1,7 +1,7 @@
 ---
 name: Compatibility report
 about: Anything related to compatibility with other mods
-title: "(PutModNameHere)"
+title: ''
 labels: "type: compatibility, status: new"
 assignees: Craluminum2413
 ---
