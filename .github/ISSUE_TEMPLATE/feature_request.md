@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an idea for the mod
 title: ''
-labels: enhancement
+labels: "type: enhancement, status: new"
 assignees: Craluminum2413
 
 ---
