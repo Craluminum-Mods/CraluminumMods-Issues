@@ -1,5 +1,5 @@
 # Craluminum2413's Mods
-Errors and suggestions about my Vintage Story mods can be found here
+Errors and suggestions about my mods for Vintage Story game can be found here
 
 **[My VSModDB profle](https://mods.vintagestory.at/list/mod?userid=3)**
 |Mod|Links|
