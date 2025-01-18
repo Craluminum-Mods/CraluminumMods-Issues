@@ -7,6 +7,9 @@ assignees: Craluminum2413
 ---
 
 **Game Version:** X.Y.Z
+
+**Mod Name:** MODNAME
+
 **Mod Version:** X.Y.Z
 
 **Description:**
