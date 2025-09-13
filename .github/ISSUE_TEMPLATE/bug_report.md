@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: I found an issue with the mod
-title: "(PutModNameHere)"
+title: ""
 labels: "status: new, type: bug"
 assignees: Craluminum2413
 ---
